@@ -8,9 +8,9 @@ Bitwise operations are faster and used significantly in embedded and firmware pr
 ## Sums
 
 
-- [ ] Check if the ith bit is set or not
-- [ ] Set the ith bit of a number.
-- [ ] clear the ith bit of a number.
+- [x] Check if the ith bit is set or not. (July 8th 2023)
+- [x] Set the ith bit of a number. (July 8th 2023)
+- [x] clear the ith bit of a number. (July 8th 2023)
 - [ ] Remove the last set bit of a number.
 - [ ] Find whether a number is even or odd
 - [ ] Check if the number is a power of 2?
