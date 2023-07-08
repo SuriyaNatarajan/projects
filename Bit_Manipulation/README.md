@@ -6,7 +6,7 @@ Using Bitwise operators with other unary operators, we can solve many problems e
 Bitwise operations are faster and used significantly in embedded and firmware programming.
 
 ## Sums
-- Progress ![17%](https://progress-bar.dev/50)
+- Progress ![17%](https://progress-bar.dev/17)
 
 - [x] Check if the ith bit is set or not. (July 8th 2023)
 - [x] Set the ith bit of a number. (July 8th 2023)
