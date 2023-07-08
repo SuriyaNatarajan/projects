@@ -6,18 +6,18 @@ Using Bitwise operators with other unary operators, we can solve many problems e
 Bitwise operations are faster and used significantly in embedded and firmware programming.
 
 ## Sums
-
+- Progress ![17%](https://progress-bar.dev/50)
 
 - [x] Check if the ith bit is set or not. (July 8th 2023)
 - [x] Set the ith bit of a number. (July 8th 2023)
 - [x] clear the ith bit of a number. (July 8th 2023)
-- [ ] Remove the last set bit of a number.
-- [ ] Find whether a number is even or odd
-- [ ] Check if the number is a power of 2?
+- [x] Remove the last set bit of a number. (July 8th 2023 :)
+- [x] Find whether a number is even or odd. (July 8th 2023)
+- [x] Check if the number is a power of 2? (July 8th 2023)
 - [ ] Check if a number is a power of 4?
 - [ ] Check if a number is a power of 8?
 - [ ] Check if a number is a power of 16?
-- [ ] Toggle ith Bit of a number?
+- [x] Toggle ith Bit of a number? (July 8th 2023)
 - [ ] Count the number of set bits in a number
 - [ ] Find the two non-repeating elements in an array of repeating elements/ Unique Numbers 2
 - [ ] Convert Uppercase to LowerCase:
