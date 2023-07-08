@@ -6,7 +6,7 @@ Using Bitwise operators with other unary operators, we can solve many problems e
 Bitwise operations are faster and used significantly in embedded and firmware programming.
 
 ## Sums
-- Progress ![17%](https://progress-bar.dev/17)
+- Progress ![19%](https://progress-bar.dev/19)
 
 - [x] Check if the ith bit is set or not. (July 8th 2023)
 - [x] Set the ith bit of a number. (July 8th 2023)
@@ -18,7 +18,7 @@ Bitwise operations are faster and used significantly in embedded and firmware pr
 - [ ] Check if a number is a power of 8?
 - [ ] Check if a number is a power of 16?
 - [x] Toggle ith Bit of a number? (July 8th 2023)
-- [ ] Count the number of set bits in a number
+- [x] Count the number of set bits in a number
 - [ ] Find the two non-repeating elements in an array of repeating elements/ Unique Numbers 2
 - [ ] Convert Uppercase to LowerCase:
 - [ ] Convert Lowercase to Uppercase
