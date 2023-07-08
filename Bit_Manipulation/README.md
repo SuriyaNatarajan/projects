@@ -8,5 +8,5 @@ Bitwise operations are faster and used significantly in embedded and firmware pr
 
 ## Acknowledgements
 
- - [Kapil Yadav](https://www.linkedin.com/in/kapilyadav22/)
+ - [Kapil Yadav](https://www.linkedin.com/posts/kapilyadav22_bit-manipulation-notes-by-kapil-yadav-activity-6995227168423194624-FlWu?utm_source=share&utm_medium=member_desktop)
  
