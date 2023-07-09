@@ -11,18 +11,18 @@ Bitwise operations are faster and used significantly in embedded and firmware pr
 - [x] Check if the ith bit is set or not. (July 8th 2023)
 - [x] Set the ith bit of a number. (July 8th 2023)
 - [x] clear the ith bit of a number. (July 8th 2023)
-- [x] Remove the last set bit of a number. (July 8th 2023 :)
+- [x] Remove the last set bit of a number. (July 8th 2023 *)
 - [x] Find whether a number is even or odd. (July 8th 2023)
 - [x] Check if the number is a power of 2? (July 8th 2023)
 - [ ] Check if a number is a power of 4?
 - [ ] Check if a number is a power of 8?
 - [ ] Check if a number is a power of 16?
 - [x] Toggle ith Bit of a number? (July 8th 2023)
-- [x] Count the number of set bits in a number
-- [ ] Find the two non-repeating elements in an array of repeating elements/ Unique Numbers 2
-- [ ] Convert Uppercase to LowerCase:
-- [ ] Convert Lowercase to Uppercase
-- [ ] Invert Alphabet’s Case
+- [x] Count the number of set bits in a number (July 8th 2023)
+- [x] Find the two non-repeating elements in an array of repeating elements/ Unique Numbers 2 (July 8th 2023, partial)
+- [x] Convert Uppercase to LowerCase: (July 9th 2023)
+- [x] Convert Lowercase to Uppercase (July 9th 2023)
+- [x] Invert Alphabet’s Case (July 9th 2023)
 - [ ] Find Letter Position in alphabet
 - [ ] Given a set of numbers where all elements occur an even number of times except one number, find the odd occurring number.
 - [ ] Swap two numbers using Bit manipulation:
