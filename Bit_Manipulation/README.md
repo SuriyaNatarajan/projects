@@ -6,7 +6,7 @@ Using Bitwise operators with other unary operators, we can solve many problems e
 Bitwise operations are faster and used significantly in embedded and firmware programming.
 
 ## Sums
-- Progress ![43%](https://progress-bar.dev/43)
+- Progress ![51%](https://progress-bar.dev/51)
 
 - [x] Check if the ith bit is set or not. (July 8th 2023)
 - [x] Set the ith bit of a number. (July 8th 2023)
@@ -41,9 +41,9 @@ Bitwise operations are faster and used significantly in embedded and firmware pr
 - [ ] One unique rest thrice
 - [ ] Reduce a Number to 1
 - [ ] Detect if two integers have opposite sign
-- [ ] Add 1 to an integer
-- [ ] Find Xor of a number without using XOR operator
-- [ ] Determine if two integers are equal without using comparison and arithmetic operators
+- [x] Add 1 to an integer (10th July 2023)
+- [x] Find Xor of a number without using XOR operator (10th July 2023)
+- [x] Determine if two integers are equal without using comparison and arithmetic operators (10th July 2023)
 - [ ] Find minimum or maximum of two integers without using branching
 - [ ] Find missing and repeating number / Set mismatch:
 - [ ] Maximum Product of Word Lengths
