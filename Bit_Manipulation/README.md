@@ -6,7 +6,7 @@ Using Bitwise operators with other unary operators, we can solve many problems e
 Bitwise operations are faster and used significantly in embedded and firmware programming.
 
 ## Sums
-- Progress ![34%](https://progress-bar.dev/34)
+- Progress ![43%](https://progress-bar.dev/43)
 
 - [x] Check if the ith bit is set or not. (July 8th 2023)
 - [x] Set the ith bit of a number. (July 8th 2023)
@@ -25,7 +25,7 @@ Bitwise operations are faster and used significantly in embedded and firmware pr
 - [x] Invert Alphabet’s Case (July 9th 2023)
 - [x] Find Letter Position in alphabet (July 9th 2023)
 - [x] Given a set of numbers where all elements occur an even number of times except one number, find the odd occurring number. (July 9th 2023)
-- [ ] Swap two numbers using Bit manipulation:
+- [x] Swap two numbers using Bit manipulation: (July 9th 2023, :)
 - [ ] Calculate XOR from 1 to n
 - [ ] Find XOR of numbers from the range [L,R]
 - [ ] Check whether the number is even or not
@@ -34,9 +34,9 @@ Bitwise operations are faster and used significantly in embedded and firmware pr
 - [ ] Find missing number in an array:
 - [ ] Print the binary representation of decimal number:
 - [ ] Reverse the bits of a number:
-- [ ] Swap the ith and Jth bit.
-- [ ] Swap all even and odd bits
-- [ ] Copy set bits in a range, toggle set bits in a range:
+- [x] Swap the ith and Jth bit. (July 9th 2023)
+- [x] Swap all even and odd bits (July 9th 2023)
+- [x] Copy set bits in a range, toggle set bits in a range: (July 9th 2023)
 - [ ] Divide two integers without using Multiplication, Division and mod operator:
 - [ ] One unique rest thrice
 - [ ] Reduce a Number to 1
